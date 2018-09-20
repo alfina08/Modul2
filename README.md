@@ -7,3 +7,4 @@
 ![alt teks](https://github.com/alfina08/Modul2/blob/master/Ujipraktikum1.PNG)
 ![alt teks](https://github.com/alfina08/Modul2/blob/master/UjiBola.PNG)
 ![alt teks](/blob/master/Penjelasan%20Output.PNG)
+![alt teks](https://github.com/alfina08/Modul2/blob/master/Penjelasan%20Output.PNG)
